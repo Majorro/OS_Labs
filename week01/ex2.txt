@@ -1,0 +1,87 @@
+    1  ls
+    2  tree
+    3  cd home
+    4  git
+    5  mkdir OS_Tasks
+    6  cd OS_Tasks
+    7  cd /usr
+    8  cd..
+    9  cd.
+   10  cd ..
+   11  ls
+   12  cd home
+   13  cd OS_Tasks
+   14  cd majorro
+   15  cd OS_Tasks
+   16  git init
+   17  git config --global user.name "majorro"
+   18  git config --global user.email "andrabaratrum007@gmail.com"
+   19  git remote add origin https://github.com/Majorro/OS_Tasks.git
+   20  grep -h
+   21  grep --help
+   22  grep -r "gcc" /usr/bin | sort -r > week01/ex1.txt
+   23  >week01/ex1.txt
+   24  ls
+   25  mkdir week1
+   26  ls
+   27  grep -r "gcc" /usr/bin | sort -r >week01/ex1.txt
+   28  >week01/ex1.txt
+   29  cd week1
+   30  >ex1.txt
+   31  ls
+   32  rm ex1.txt
+   33  ls
+   34  cd..
+   35  cd ..
+   36  grep -r "gcc" /usr/bin | sort -r >/week01/ex1.txt
+   37  cd week1
+   38  >ex1.txt
+   39  grep -r "gcc" /usr/bin | sort -r >/week01/ex1.txt
+   40  grep -r "gcc" /usr/bin | sort -r >week01/ex1.txt
+   41  grep -r "gcc" /usr/bin | sort -r >/home/majorro/OS_Tasks/week01/ex1.txt
+   42  grep -r "gcc" /usr/bin | sort -r echo>week01/ex1.txt
+   43  cd ..
+   44  grep -r "gcc" /usr/bin | sort -r >week01/ex1.txt
+   45  grep -r "gcc" /usr/bin | sort -r echo>week01/ex1.txt
+   46  grep -r "gcc" /usr/bin | sort -r  echo>week01/ex1.txt
+   47  grep -r "gcc" /usr/bin | sort -r | echo>week01/ex1.txt
+   48  cd week01
+   49  grep -r "gcc" /usr/bin | sort -r | echo>ex1.txt
+   50  git commit -m "Task01"
+   51  ls
+   52  mv ex1.txt week1
+   53  ls
+   54  git add -A
+   55  mkdir week01
+   56  ls
+   57  rm week1
+   58  ls
+   59  cd week01
+   60  ls
+   61  rm ex1.txt
+   62  ls
+   63  cd ..
+   64  git status
+   65  git add -A
+   66  git commit -m "Initial commit"
+   67  git push origin master
+   68  branch
+   69  git branch
+   70  git branch -M master
+   71  git remote
+   72  git status
+   73  git log
+   74  >week01/ex1.txt
+   75  cd week01
+   76  ls
+   77  cd ..
+   78  git add -A
+   79  git commit -m "Initial commit"
+   80  git push origin master
+   81  grep -r "gcc" /usr/bin | sort -r
+   82  grep -r "gcc" /usr/bin | sort -r > week01/ex1.txt
+   83  grep "gcc" /usr/bin | sort -r > week01/ex1.txt
+   84  grep -r 1 "gcc" /usr/bin | sort -r > week01/ex1.txt
+   85  grep --help
+   86  grep -rL "gcc" /usr/bin | sort -r > week01/ex1.txt
+   87  history > week01/ex2.txt
