@@ -1,0 +1,2 @@
+physical address: an address to a physical(existing) memory cell that is on chip
+virtual address: some generated address which mapped to the physical one, it allows memory management
