@@ -1,0 +1,14 @@
+Very low hit miss ratio: *any sequence of non-repeating ids*
+for any N
+Hits: 0
+Miss: *sequence length*
+Hit/Miss ratio: 0
+All page references will occur once, so data always must be loaded
+
+
+Very high hit miss ratio: *sequence consisting of 1 id*
+for any N
+Hits: *sequence length-1*
+Miss: 1
+Hit/Miss ratio: *number of hits*
+Only the first access will be miss, then it will be already loaded
