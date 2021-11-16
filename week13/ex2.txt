@@ -1,0 +1,7 @@
+Deadlock recovery: can be better used when the deadlock chance is low because this approach spends more resources
+in comparison with other ones.
+
+Deadlock prevention: can be better used when deadlock chance is high,
+in these cases is still better than recovery in spite of low throughput.
+
+Deadlock avoidance: fits when enough information aboutr the safeness of the system state is known.
